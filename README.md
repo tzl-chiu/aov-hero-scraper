@@ -59,7 +59,7 @@ aov-hero-scraper/
 截圖展示
 下圖展示了成功抓取資料並存入 MySQL 資料庫的結果：
 
-![my-screenshot.png](https://i.ibb.co/BVHX7q59/2026-06-20-18-16-15.png)
+![[my-screenshot.png](https://i.ibb.co/BVHX7q59/2026-06-20-18-16-15.png)]
 
 
 注意事項
