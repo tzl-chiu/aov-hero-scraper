@@ -26,8 +26,13 @@
 ### 2. 安裝依賴
 在終端機執行以下指令來安裝所需的套件：
 
-```bash
-pip install pandas sqlalchemy pymysql beautifulsoup4 requests python-dotenv
+```bash```
+```pip install pandas sqlalchemy pymysql beautifulsoup4 requests python-dotenv```
+
+截圖展示
+下圖展示了成功抓取資料並存入 MySQL 資料庫的結果：
+![英雄資料表](https://i.ibb.co/BVHX7q59/2026-06-20-18-16-15.png)
+
 
 
 
@@ -56,11 +61,6 @@ aov-hero-scraper/
 ├── aov.py             # 核心爬蟲與儲存邏輯
 ├── requirements.txt    # 專案套件列表
 └── README.md           # 專案說明文件
-截圖展示
-下圖展示了成功抓取資料並存入 MySQL 資料庫的結果：
-
-![[my-screenshot.png](https://i.ibb.co/BVHX7q59/2026-06-20-18-16-15.png)]
-
 
 注意事項
 本專案僅供個人學習與資料分析使用，爬取頻率請斟酌，請遵守該網站的 robots.txt 規範。
