@@ -50,11 +50,11 @@
 
 直接執行你的主程式：
 
-`python main.py`
+`python aov.py`
 
 ## 專案結構
 
-* main.py: 核心程式碼。
+* aov.py: 核心程式碼。
 
 * requirements.txt: 套件清單。
 
