@@ -59,6 +59,8 @@ aov-hero-scraper/
 截圖展示
 下圖展示了成功抓取資料並存入 MySQL 資料庫的結果：
 
+<img src="https://i.ibb.co/BVHX7q59/2026-06-20-18-16-15.png">
+
 注意事項
 本專案僅供個人學習與資料分析使用，爬取頻率請斟酌，請遵守該網站的 robots.txt 規範。
 
