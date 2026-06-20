@@ -51,14 +51,13 @@ DB_NAME=aov
 Bash
 python main.py
 專案結構
-Plaintext
-aov-hero-scraper/
-├── .env                # 環境變數 (請勿上傳至 GitHub)
-├── .env.example        # 環境變數範本
-├── .gitignore          # 忽略隱私檔案設定
-├── aov.py             # 核心爬蟲與儲存邏輯
-├── requirements.txt    # 專案套件列表
-└── README.md           # 專案說明文件
+
+Retail_Analysis_Project/
+├── data/               # 存放 CSV 或 HTML 範本 (README 寫明如何更新)
+├── src/                # 存放你的 main.py 或 test.py
+├── requirements.txt    # 這是最關鍵的：列出你的所有套件
+├── README.md           # 專案介紹文件
+└── .gitignore          # 忽略 venv 和 .db 檔案
 
 截圖展示
 下圖展示了成功抓取資料並存入 MySQL 資料庫的結果：
